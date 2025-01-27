@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\bin\Debug\WrapPanel.exe.config
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\bin\Debug\WrapPanel.exe
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.g.resources
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.exe
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\WrapPanel\obj\Debug\WrapPanel.pdb

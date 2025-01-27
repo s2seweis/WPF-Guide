@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\bin\Debug\Context Menu.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\bin\Debug\Context Menu.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\bin\Debug\Context Menu.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context_Menu.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Context Menu\obj\Debug\Context Menu.pdb

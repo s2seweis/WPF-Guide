@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\bin\Debug\GridsSpanning.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\bin\Debug\GridsSpanning.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\bin\Debug\GridsSpanning.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Panels\GridsSpanning\obj\Debug\GridsSpanning.pdb

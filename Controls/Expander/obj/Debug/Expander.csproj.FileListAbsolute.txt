@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\bin\Debug\Expander.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\bin\Debug\Expander.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\bin\Debug\Expander.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Controls\Expander\obj\Debug\Expander.pdb

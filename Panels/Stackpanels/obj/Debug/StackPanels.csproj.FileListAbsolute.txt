@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\bin\Debug\Stackpanels.exe.config
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\bin\Debug\Stackpanels.exe
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\bin\Debug\Stackpanels.pdb
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\StackPanels.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels.g.resources
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\StackPanels.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\StackPanels.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels.exe
+C:\Users\SWE\source\repos\30. WPFGuide\Panels\Stackpanels\obj\Debug\Stackpanels.pdb

@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\bin\Debug\DataBindingComboBoxEnum.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\bin\Debug\DataBindingComboBoxEnum.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\bin\Debug\DataBindingComboBoxEnum.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DataBindingComboBoxEnum\obj\Debug\DataBindingComboBoxEnum.pdb

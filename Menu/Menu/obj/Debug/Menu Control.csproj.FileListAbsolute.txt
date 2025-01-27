@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu Control.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu Control.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu Control.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\Menu\obj\Debug\Menu.pdb

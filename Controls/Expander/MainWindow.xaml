@@ -1,0 +1,30 @@
+﻿<Window x:Class="Expander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Expander"
+        mc:Ignorable="d"
+        Title="Expander" Height="450" Width="800">
+    <Grid>
+        <Expander Expanded="Expander_Expanded">
+            <Expander.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Image Width="20" Source="https://www.pngkey.com/png/full/147-1479181_rick-sanchez-rick-sanchez-rick-png.png"></Image>
+                    <TextBlock VerticalAlignment="Center">Click to expand and to hide the content</TextBlock>
+                </StackPanel>
+            </Expander.Header>
+            <StackPanel>
+                <Button Margin="15">Click Me</Button>
+                <TextBlock 
+                    TextWrapping="Wrap" 
+                    FontSize="20"
+                    Margin="15"
+                    >
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                </TextBlock>
+            </StackPanel>
+        </Expander>
+        
+    </Grid>
+</Window>

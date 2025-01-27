@@ -1,0 +1,16 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\bin\Debug\DatabindingListToClass.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\bin\Debug\DatabindingListToClass.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\bin\Debug\DatabindingListToClass.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Databinding\DatabindingListToClass\obj\Debug\DatabindingListToClass.pdb

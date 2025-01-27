@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Dialogs\Dialogs\obj\Debug\Dialogs.pdb

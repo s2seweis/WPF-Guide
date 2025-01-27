@@ -1,0 +1,79 @@
+﻿<Window x:Class="DataBindingComboBoxEnum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        xmlns:local="clr-namespace:DataBindingComboBoxEnum"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        
+        mc:Ignorable="d"
+        Title="DataBinding Combobox Enum" Height="450" Width="800">
+
+    <Window.Resources>
+        <!--bridge that connects the combo box to an enum-->
+                            <!--"Sys" the namespace that we setup earlier-->
+        <ObjectDataProvider x:Key="odpTaste"
+                            ObjectType="{x:Type sys:Enum}"
+                            MethodName="GetNames"
+                            >
+            <!-- GetNames(Taste)-->
+            <ObjectDataProvider.MethodParameters>
+                <!--local is the namespace entire project -->
+                <x:Type TypeName="local:Taste"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+
+        <!--<ObjectDataProvider x:Key="odpAnimal"
+                            ObjectType="{x:Type sys:Enum}"
+                            MethodName="GetNames">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:Animal" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>-->
+
+    </Window.Resources>
+    
+    <!--<StackPanel>
+        <ComboBox
+            FontSize="30"
+            ItemsSource="{Binding Source={StaticResource odpTaste}}"
+            Width="150"
+            >
+        </ComboBox> 
+        <ComboBox
+            FontSize="30"
+            ItemsSource="{Binding Source={StaticResource odpAnimal}}"
+            Width="150"
+            >
+        </ComboBox>
+    </StackPanel>-->
+
+    <StackPanel>
+        <StackPanel.Resources>
+            <ObjectDataProvider x:Key="odpAnimal"
+                                ObjectType="{x:Type sys:Enum}"
+                                MethodName="GetNames"
+                                >
+                <ObjectDataProvider.MethodParameters>
+                    <x:Type TypeName="local:Animal"/>
+                </ObjectDataProvider.MethodParameters>
+            </ObjectDataProvider>
+        </StackPanel.Resources>
+        <ComboBox
+              FontSize="30"
+              ItemsSource="{Binding Source={StaticResource odpTaste}}"
+              Width="150"
+              >
+        </ComboBox> 
+        
+        <ComboBox
+              FontSize="30"
+              ItemsSource="{Binding Source={StaticResource odpAnimal}}"
+              Width="150"
+              >
+        </ComboBox>
+        
+    </StackPanel>
+    
+</Window>

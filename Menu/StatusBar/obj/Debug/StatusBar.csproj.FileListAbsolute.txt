@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\bin\Debug\StatusBar.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\bin\Debug\StatusBar.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\bin\Debug\StatusBar.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.exe
+C:\Users\SWE\source\repos\30. WPF Guide\Menu\StatusBar\obj\Debug\StatusBar.pdb

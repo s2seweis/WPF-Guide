@@ -1,0 +1,15 @@
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\bin\Debug\NavigationEvents.exe.config
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\bin\Debug\NavigationEvents.exe
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\bin\Debug\NavigationEvents.pdb
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.g.resources
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.exe
+C:\Users\SWE\source\repos\30. WPF Guide\NavigationEvents\NavigationEvents\obj\Debug\NavigationEvents.pdb

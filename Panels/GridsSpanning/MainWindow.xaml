@@ -1,0 +1,34 @@
+﻿<Window x:Class="GridsSpanning.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GridsSpanning"
+        mc:Ignorable="d"
+        Title="GridsSpanning" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Background="#FFF574" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2">Button 01</Button>
+        <!--<Button Grid.Column="1" Grid.Row="0">Button 02</Button>-->
+        <Button Background="#A19AD3" Grid.Column="2" Grid.Row="0">Button 03</Button>
+        <Button Background="#A19AD3" Grid.Column="3" Grid.Row="0">Button 04</Button>
+        <!--<Button Grid.Column="0" Grid.Row="1">Button 05</Button>
+        <Button Grid.Column="1" Grid.Row="1">Button 06</Button>-->
+        <Button Background="#A19AD3" Grid.Column="2" Grid.Row="1">Button 07</Button>
+        <Button Background="#A1D6CB" Grid.Column="3" Grid.Row="1" Grid.RowSpan="2">Button 08</Button>
+        <Button Background="#A19AD3" Grid.Column="0" Grid.Row="2">Button 09</Button>
+        <Button Background="#FF8383" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2">Button 10</Button>
+        <!--<Button Grid.Column="2" Grid.Row="2">Button 11</Button>-->
+        <!--<Button Grid.Column="3" Grid.Row="2">Button 012</Button>-->
+    </Grid>
+</Window>

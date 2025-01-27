@@ -1,0 +1,45 @@
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\bin\Debug\CatYears.exe.config
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\bin\Debug\CatYears.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\bin\Debug\CatYears.pdb
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.csprojAssemblyReference.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\MainWindow.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\App.g.cs
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears_MarkupCompile.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears_MarkupCompile.lref
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\MainWindow.baml
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.g.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.Properties.Resources.resources
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.csproj.GenerateResource.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.csproj.CoreCompileInputs.cache
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.exe
+C:\Users\Gzen\Developer\Denis Videos\WPF-Masterclass-App-Mahapps\Demos\CatYears\obj\Debug\CatYears.pdb
+C:\Users\SWE\Downloads\CatYears\bin\Debug\CatYears.exe.config
+C:\Users\SWE\Downloads\CatYears\bin\Debug\CatYears.exe
+C:\Users\SWE\Downloads\CatYears\bin\Debug\CatYears.pdb
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.csproj.AssemblyReference.cache
+C:\Users\SWE\Downloads\CatYears\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\Downloads\CatYears\obj\Debug\App.g.cs
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears_MarkupCompile.cache
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears_MarkupCompile.lref
+C:\Users\SWE\Downloads\CatYears\obj\Debug\MainWindow.baml
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.g.resources
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.Properties.Resources.resources
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.csproj.GenerateResource.cache
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.csproj.CoreCompileInputs.cache
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.exe
+C:\Users\SWE\Downloads\CatYears\obj\Debug\CatYears.pdb
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\bin\Debug\CatYears.exe.config
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\bin\Debug\CatYears.exe
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\bin\Debug\CatYears.pdb
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.csproj.AssemblyReference.cache
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\MainWindow.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\App.g.cs
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears_MarkupCompile.cache
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears_MarkupCompile.lref
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\MainWindow.baml
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.g.resources
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.Properties.Resources.resources
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.csproj.GenerateResource.cache
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.csproj.CoreCompileInputs.cache
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.exe
+C:\Users\SWE\source\repos\30. WPFGuide\CatYears\obj\Debug\CatYears.pdb
